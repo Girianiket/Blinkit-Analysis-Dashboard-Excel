@@ -14,41 +14,44 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ## BUSINESS REQUIREMENTS
 
-1.
-   1.1 Analysis Focus= Total Sales by Fat Content.
-   1.2 Objective = Analyze the impact of fat content on total sales.
-   1.3 Chart-Type = Donut Chart
-   1.4 Additional KPI Metrics = Average Sales, Number of Items, Average Rating.
+1. Analysis Focus= Total Sales by Fat Content.
+   Objective = Analyze the impact of fat content on total sales.
+   Chart-Type = Donut Chart.
+   Additional KPI Metrics = Average Sales, Number of Items, Average Rating.
 
-3. Analysis Focus = Total Sales by Item Type
+3. Analysis Focus = Total Sales by Item Type.
    Objective = Identify the performance of different item types in terms of total sales.
-   Chart-Type = Bar Chart
-   Additional KPI Metrics = Average Sales, Number of Items, Average Rating
+   Chart-Type = Bar Chart.
+   Additional KPI Metrics = Average Sales, Number of Items, Average Rating.
 
-4. Analysis Focus = Fat Content by Outlet for Total Sales
+4. Analysis Focus = Fat Content by Outlet for Total Sales.
    Objective = Compare total sales across different outlets segmented by fat content.
    Chart-Type = Stacked Column Chart.
-   Additional KPI Metrics = Average Sales, Number of Items, Average Rating
+   Additional KPI Metrics = Average Sales, Number of Items, Average Rating.
 
-5. Analysis Focus = Total Sales by Outlet Establishment
+5. Analysis Focus = Total Sales by Outlet Establishment.
    Objective = Evaluate how the age or type of outlet establishment influences total sales.
-   Chart-Type = Line Chart
-   Additional KPI Metrics = N/A
+   Chart-Type = Line Chart.
+   Additional KPI Metrics = N/A.
 
-6. Analysis Focus	= Sales by Outlet Size
+6. Analysis Focus	= Sales by Outlet Size.
    Objective = Analyze the correlation between outlet size and total sales.
-   Chart Type = Donut/ Pie Char 
-   Additional KPI Metrics = N/A
+   Chart Type = Donut/ Pie Char.
+   Additional KPI Metrics = N/A.
 
-7. Analysis Focus = Sales by Outlet Location
+7. Analysis Focus = Sales by Outlet Location.
    Objective = Assess the geographic distribution of sales across different locations.
-   Chart Type = Funnel Map
-   Additional KPI Metrics = N/A
+   Chart Type = Funnel Map.
+   Additional KPI Metrics = N/A.
 
-8. Analysis Focus = All Metrics by Outlet Type
+8. Analysis Focus = All Metrics by Outlet Type.
    Objective = Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
-   Chart Type = Matrix Card
-   Additional KPI Metrics=  N/A
+   Chart Type = Matrix Card.
+   Additional KPI Metrics=  N/A.
+
+
+
+## DATA SET USED 
 
 
 
