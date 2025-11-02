@@ -8,11 +8,8 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ## KPI'S REQUIREMENTS
 1. Total Sales: The overall revenue generated from all items sold.
-   
 2. Average Sales: The average revenue per sale.
- 
 3. Number of Items: The total count of different items sold.
-
 4. Average Rating: The average customer rating for items sold.
 
 ## BUSINESS REQUIREMENTS
@@ -64,44 +61,53 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 ## QUESTIONS 
 
 
-1.What was the total revenue (Total Sales) generated in this analysis, as shown by the large card at the top?
+1. What was the total revenue (Total Sales) generated in this analysis, as shown by the large card at the top?
 
-2.What is the overall Average Rating that customers gave, and how many unique items were sold (No. of Items)?
+2. What is the overall Average Rating that customers gave, and how many unique items were sold (No. of Items)?
 
-3.Looking at the "Fat Content" donut chart, did products labeled as High Fat or Regular Fat account for a larger share of sales?
+3. Looking at the "Fat Content" donut chart, did products labeled as High Fat or Regular Fat account for a larger share of sales?
 
-4.According to the "Item Type" bar chart, which category of products (like Fruits and Vegetables, or Snack Foods) generated the highest sales?
+4. According to the "Item Type" bar chart, which category of products (like Fruits and Vegetables, or Snack Foods) generated the highest sales?
 
-5.Which Outlet Size (Small, Medium, or High) contributed the most to the Total Sales, based on the donut chart?
+5. Which Outlet Size (Small, Medium, or High) contributed the most to the Total Sales, based on the donut chart?
 
-6.Which Outlet Location (Tier 1, Tier 2, or Tier 3) brought in the highest amount of Total Sales?
+6. Which Outlet Location (Tier 1, Tier 2, or Tier 3) brought in the highest amount of Total Sales?
 
-7.In the Outlet Establishment line chart, which year shows the highest peak in Total Sales?
+7. In the Outlet Establishment line chart, which year shows the highest peak in Total Sales?
 
-8.When comparing Outlet Types at the bottom (Supermarket Type 1, 2, 3, Grocery Store), which one has the highest Total Sales?
+8. When comparing Outlet Types at the bottom (Supermarket Type 1, 2, 3, Grocery Store), which one has the highest Total Sales?
 
-9.Which Outlet Type has the highest Average Sales per transaction?
+9. Which Outlet Type has the highest Average Sales per transaction?
 
-10.In the "Fat by Outlet" chart, which Tier (1, 2, or 3) shows the highest total sales for Regular Fat items?
+10. In the "Fat by Outlet" chart, which Tier (1, 2, or 3) shows the highest total sales for Regular Fat items?
 
 - DashBoard <a href="https://github.com/Girianiket/Blinkit-Analysis-Dashboard-Excel/blob/main/Blinkit%20Analysis%20Dashboard.png"> click to View Dashboard</a>
 
 ## PROCESS
 
-1.Define the Goal: Start by deciding exactly what problem the dashboard needs to solve, like tracking sales or improving customer scores.
-2.Clean the Data: Gather all the necessary raw information and make sure it is perfectly tidy and consistent for accurate analysis.
-3.Plan the Layout: Draw a sketch or rough draft to figure out where all the charts and main numbers should sit on the screen.
-4.Create the Visuals: Build all the specific charts and add the interactive filters so people can easily play with the data themselves.
-5.Check for Insights: Look closely at the completed dashboard to find the key business takeaways and confirm the results with the team.
-6.Share the Report: Finalize the dashboard and officially publish it so the entire company can start using it to guide their decisions.
+1. Define the Goal: Start by deciding exactly what problem the dashboard needs to solve, like tracking sales or improving customer scores.
+
+2. Clean the Data: Gather all the necessary raw information and make sure it is perfectly tidy and consistent for accurate analysis.
+
+3. Plan the Layout: Draw a sketch or rough draft to figure out where all the charts and main numbers should sit on the screen.
+
+4. Create the Visuals: Build all the specific charts and add the interactive filters so people can easily play with the data themselves.
+
+5. Check for Insights: Look closely at the completed dashboard to find the key business takeaways and confirm the results with the team.
+
+6. Share the Report: Finalize the dashboard and officially publish it so the entire company can start using it to guide their decisions.
 
 ## PROJECT INSIGHT
 
-1.The analysis must reveal which product categories (Item Types) drive the highest overall revenue and possess the best customer satisfaction ratings.
-2.We need to determine if there is a clear consumer preference for products based on their Fat Content and how that trend varies between different retail outlets.
-3.A key finding will be identifying the most profitable Outlet Size and Outlet Type to guide future resource allocation and investment decisions.
-4.The data should clearly show whether the age of an outlet (Establishment Year) positively or negatively impacts its long-term sales performance.
-5.Finally, the project must pinpoint geographic locations (Outlet Location) that are underperforming or present the biggest untapped market potential for expansion.
+1. The analysis must reveal which product categories (Item Types) drive the highest overall revenue and possess the best customer satisfaction ratings.
+
+2. We need to determine if there is a clear consumer preference for products based on their Fat Content and how that trend varies between different retail outlets.
+
+3. A key finding will be identifying the most profitable Outlet Size and Outlet Type to guide future resource allocation and investment decisions.
+
+4. The data should clearly show whether the age of an outlet (Establishment Year) positively or negatively impacts its long-term sales performance.
+
+5. Finally, the project must pinpoint geographic locations (Outlet Location) that are underperforming or present the biggest untapped market potential for expansion.
 
 ## FINAL CONCLUSION
 
