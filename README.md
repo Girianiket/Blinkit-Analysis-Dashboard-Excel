@@ -7,10 +7,10 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 # GIVEN REQUIREMENTS :-
 
 ## KPI'S REQUIREMENTS
-Total Sales: The overall revenue generated from all items sold.
-Average Sales: The average revenue per sale.
-Number of Items: The total count of different items sold.
-Average Rating: The average customer rating for items sold.
+1. Total Sales: The overall revenue generated from all items sold.
+2. Average Sales: The average revenue per sale.
+3. Number of Items: The total count of different items sold.
+4. Average Rating: The average customer rating for items sold.
 
 ## BUSINESS REQUIREMENTS
 
