@@ -14,10 +14,10 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ## BUSINESS REQUIREMENTS
 
-1. Analysis Focus= Total Sales by Fat Content,
-   Objective = Analyze the impact of fat content on total sales,
-   Chart-Type = Donut Chart,
-   Additional KPI Metrics = Average Sales, Number of Items, Average Rating.
+1. *Analysis Focus= Total Sales by Fat Content
+   *Objective = Analyze the impact of fat content on total sales
+   *Chart-Type = Donut Chart
+   *Additional KPI Metrics = Average Sales, Number of Items, Average Rating.
 
 2. Analysis Focus = Total Sales by Item Type
    Objective = Identify the performance of different item types in terms of total sales.
