@@ -53,6 +53,8 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ## DATA SET USED 
 
+- Data-Set <a href= "https://github.com/Girianiket/Blinkit-Analysis-Dashboard-Excel/blob/main/Blinkit%20Analysis%20DataSet.xlsx"> click to view data set</a>
+
 
 
 
