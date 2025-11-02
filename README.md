@@ -62,14 +62,23 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 
 1.What was the total revenue (Total Sales) generated in this analysis, as shown by the large card at the top?
+
 2.What is the overall Average Rating that customers gave, and how many unique items were sold (No. of Items)?
+
 3.Looking at the "Fat Content" donut chart, did products labeled as High Fat or Regular Fat account for a larger share of sales?
+
 4.According to the "Item Type" bar chart, which category of products (like Fruits and Vegetables, or Snack Foods) generated the highest sales?
+
 5.Which Outlet Size (Small, Medium, or High) contributed the most to the Total Sales, based on the donut chart?
+
 6.Which Outlet Location (Tier 1, Tier 2, or Tier 3) brought in the highest amount of Total Sales?
+
 7.In the Outlet Establishment line chart, which year shows the highest peak in Total Sales?
+
 8.When comparing Outlet Types at the bottom (Supermarket Type 1, 2, 3, Grocery Store), which one has the highest Total Sales?
+
 9.Which Outlet Type has the highest Average Sales per transaction?
+
 10.In the "Fat by Outlet" chart, which Tier (1, 2, or 3) shows the highest total sales for Regular Fat items?
 
 - DashBoard <a href="https://github.com/Girianiket/Blinkit-Analysis-Dashboard-Excel/blob/main/Blinkit%20Analysis%20Dashboard.png"> click to View Dashboard</a>
